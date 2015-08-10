@@ -1,0 +1,23 @@
+{
+  "name": "learning-travis-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoto/learning-travis-ci.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luoto/learning-travis-ci/issues"
+  },
+  "homepage": "https://github.com/luoto/learning-travis-ci#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
